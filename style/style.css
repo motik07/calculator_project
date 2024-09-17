@@ -1,0 +1,44 @@
+* {
+  font-family: "Bona Nova SC" !important;
+}
+
+body {
+  background-image: url(../background/blackboard-inscribed-with-scientific-formulas-calculations.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#id_sider_btn {
+  cursor: pointer !important;
+}
+
+.font-bona-important {
+  font-family: "Bona Nova SC" !important;
+}
+
+.calculator-button {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.vt323-regular {
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#calculator_display {
+  color: rgb(255, 251, 0) !important;
+  font-family: "VT323" !important;
+  font-weight: 400 !important;
+  font-size: 30px;
+  background-color: black;
+}
+
+.txt-shadow {
+  text-shadow: 2px 1px 3px black !important;
+
+}
+.box-shadow {
+  box-shadow: 2px 1px 5px black;
+}
